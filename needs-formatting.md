@@ -41,7 +41,7 @@ This assumption, based on morphological comparisons of fossils, conflicts with a
 
 <!-- Change the link below to be an image. Include descriptive alternate text. -->
 
-![Picture of a Racoon in its natural habitat.](<https://curiodyssey.org/wp-content/uploads/bb-plugin/cache/Mammals-Raccoon-square.jpg>)
+![Picture of a Racoon in its natural habitat.](<https://media.istockphoto.com/id/514622028/es/foto/poco-mapache-de-%C3%A1rbol.jpg?s=612x612&w=0&k=20&c=nUQIV3wWxstPf-FxFTcNAgCw5QPIRiE1H111aRrk_M0=>)
 
 <!-- Use one set of backticks to highlight the word raccoon as a keyword -->
 
